@@ -1,0 +1,688 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;1,100&family=Mukta&family=Raleway:wght@400;500&family=Roboto:ital,wght@0,500;0,900;1,300;1,400&family=Ubuntu:ital,wght@1,300;1,400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #101029;
+}
+
+.col {
+    width: 50%;
+
+    /* background: #6b5f65; */
+    /* background: aquamarine; */
+    /* background: rgb(179 15 15 / 63%); */
+    background: #101029;
+
+    padding: 0 99px;
+}
+
+
+.row {
+    width: 50%;
+}
+
+.container {
+    display: flex;
+    padding: 0 5%;
+    background: #101029;
+    padding: 76px 0;
+}
+
+.row {
+    /* padding: 125px 20px; */
+    background: #101029;
+}
+
+.col img {
+
+
+    width: 100%;
+    padding: 0 0px;
+    z-index: 40;
+    /* position: relative; */
+    background: linear-gradient(45deg, black, #101029);
+    border: 19px solid #bd6abd;
+}
+
+
+
+#typing-text {
+
+    color: #fff;
+    font-family: unset;
+    position: relative;
+    top: 166px;
+
+}
+
+.con {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: xxx-large;
+    white-space: nowrap;
+    /* Keeps text on one line */
+    overflow: hidden;
+    /* Prevents text from displaying */
+    border-right: .15em solid #fff;
+}
+
+.img img {
+    width: 100%;
+    position: relative;
+    left: 96px;
+}
+
+
+.horizontal-line {
+    width: 93%;
+    height: 2px;
+    background-color: #eb4ceb;
+    margin: 20px 0;
+    position: relative;
+    left: 28px;
+}
+
+.activity2 {
+    display: flex;
+}
+
+.ab-img {
+
+    width: 50%;
+}
+
+.ab-img img {
+    width: 100%;
+}
+
+#About {
+    width: 50%;
+    color: #fff;
+}
+
+#About h1 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#About p {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.horizontal-line2 {
+    width: 66%;
+    height: 2px;
+    background-color: #fff;
+    margin: 20px 0;
+    position: relative;
+    left: 182px;
+    top: 131px;
+}
+
+.vertical1,
+.vertical2,
+.vertical3,
+.vertical4 {
+    height: 102px;
+    background: aliceblue;
+    width: 1px;
+
+}
+
+.vertical2 {
+    position: relative;
+    left: 568px;
+    bottom: 101px;
+}
+
+.vertical3 {
+    position: relative;
+    left: 864px;
+    bottom: 203px;
+}
+
+.vertical4 {
+    position: relative;
+    left: 1156px;
+    bottom: 304px;
+}
+
+.vertical1 h1 {
+    position: relative;
+    top: 99px;
+    right: 37px;
+    color: #fff;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.all {
+    position: relative;
+    top: 106px;
+}
+
+.horizontal-line5 {
+    width: 70%;
+    height: 2px;
+    background: #fff;
+    position: relative;
+    left: 240px;
+}
+
+.vertical2 h1 {
+    position: relative;
+    top: 99px;
+    right: 37px;
+    color: #fff;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.vertical3 h1 {
+    position: relative;
+    top: 99px;
+    right: 37px;
+    color: #fff;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.vertical4 h1 {
+    position: relative;
+    top: 99px;
+    right: 37px;
+    color: #fff;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.vertical1 {
+    position: relative;
+    left: 271px;
+}
+
+#skill h1 {
+    color: #fff;
+    position: relative;
+    right: 36px;
+}
+
+#skill2 h1 {
+    color: #fff;
+    position: relative;
+    left: 20px;
+}
+
+.activity3 {
+    font-family: 'Ubuntu', sans-serif;
+    /* overflow: hidden; */
+}
+
+.horizontal-line4 {
+    width: 93%;
+    height: 2px;
+    background-color: #eb4ceb;
+    margin: 20px 0;
+    position: relative;
+    left: 28px;
+    top: 162px;
+}
+
+.activity4 {
+    position: relative;
+    top: 285px;
+    color: white;
+    overflow: hidden;
+}
+
+.btn .btn2 {
+    display: inline-block;
+    background: #ff004f;
+}
+
+.btn2 {
+    padding: 14px 60px;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.Toggle .navigation {
+    background: white;
+}
+
+.im-g {
+    width: 50%;
+    padding: 0 158px;
+}
+
+.im-g img {
+    width: 100%;
+}
+
+.pro1 {
+    display: flex;
+    padding: 25px 70px;
+    position: relative;
+    top: 41px;
+}
+
+.text {
+    width: 50%;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.manage {
+    overflow: hidden;
+}
+
+#Project h1 {
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+    left: 63px;
+}
+
+.navbar {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-item {
+    padding: 0 30px;
+}
+
+.vertical1 p {
+    color: #fff;
+    width: 162px;
+    position: relative;
+    top: 84px;
+    right: 60px;
+}
+
+.vertical2 p {
+    color: #fff;
+    width: 190px;
+    position: relative;
+    top: 88px;
+    right: 60px;
+}
+
+.vertical3 p {
+    color: #fff;
+    width: 197px;
+    position: relative;
+    top: 88px;
+    right: 60px;
+}
+
+.vertical4 p {
+    color: #fff;
+    width: 197px;
+    position: relative;
+    top: 88px;
+    right: 60px;
+}
+
+@media screen and (max-width: 1314px) {
+
+
+    #About p {
+        padding: 0 11px;
+    }
+
+    .horizontal-line5 {
+        left: 161px;
+    }
+
+    .vertical1 {
+        left: 193px;
+    }
+
+    .vertical2 {
+        left: 430px;
+    }
+
+    .vertical3 {
+        left: 727px;
+    }
+
+    .vertical4 {
+        left: 1065px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .con {
+        font-size: 36px;
+    }
+
+    .vertical1 h1 {
+        font-size: 32px;
+    }
+
+    .vertical2 h1 {
+        font-size: 32px;
+    }
+
+    .vertical3 h1 {
+        font-size: 32px;
+    }
+
+    .vertical4 h1 {
+        font-size: 32px;
+    }
+
+    .vertical1 {
+        left: 124px;
+    }
+
+    .vertical2 {
+        left: 322px;
+    }
+
+    .vertical3 {
+        left: 557px;
+    }
+
+    .vertical4 {
+        left: 798px;
+    }
+
+    .horizontal-line5 {
+        left: 110px;
+    }
+
+}
+
+@media screen and (max-width: 861px) {
+    .pro1 {
+        display: block;
+        padding: 0px 0px;
+        position: relative;
+        top: 41px;
+        left: 192px;
+    }
+
+    .im-g {
+        width: 50%;
+        padding: 7px 10px;
+    }
+
+    .horizontal-line5 {
+        width: 2px;
+        height: 685px;
+        background: #fff;
+        position: relative;
+        left: 379px;
+    }
+
+    .vertical1 {
+        left: 345px;
+    }
+
+    .vertical1 {
+
+        height: 2px;
+        background: aliceblue;
+        width: 32px;
+        position: relative;
+        bottom: 661px;
+    }
+
+    .vertical1 h1 {
+        position: relative;
+        right: 76px;
+        color: #fff;
+        font-family: 'Ubuntu', sans-serif;
+        top: 0;
+    }
+
+    .vertical1 p {
+        color: #fff;
+        width: 162px;
+        position: relative;
+        right: 131px;
+        top: -1px;
+    }
+
+    .vertical2 {
+        height: 2px;
+        background: aliceblue;
+        width: 32px;
+        position: relative;
+        bottom: 321px;
+        left: 346px;
+    }
+
+    .vertical2 h1 {
+        position: relative;
+        top: -18px;
+        right: 45px;
+        color: #fff;
+        font-family: 'Ubuntu', sans-serif;
+    }
+
+    .vertical2 p {
+
+        color: #fff;
+        width: 190px;
+        position: relative;
+        top: -21px;
+        right: 165px;
+
+    }
+
+    .vertical3 {
+        height: 2px;
+        background: aliceblue;
+        width: 32px;
+        position: relative;
+        bottom: 471px;
+        left: 381px;
+    }
+
+    .vertical3 h1 {
+        position: relative;
+        top: -18px;
+        right: -40px;
+        color: #fff;
+        font-family: 'Ubuntu', sans-serif;
+    }
+
+    .vertical3 p {
+        color: #fff;
+        width: 197px;
+        position: relative;
+        top: -20px;
+        right: -20px;
+    }
+
+    .vertical4 {
+        height: 2px;
+        background: aliceblue;
+        width: 32px;
+        position: relative;
+        bottom: 252px;
+        left: 381px;
+
+    }
+
+    .vertical4 h1 {
+        position: relative;
+        top: -13px;
+        right: -34px;
+        color: #fff;
+        font-family: 'Ubuntu', sans-serif;
+    }
+
+    .vertical4 p {
+        color: #fff;
+        width: 197px;
+        position: relative;
+        top: -19px;
+        right: -13px;
+    }
+
+    .con {
+        font-size: 31px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+
+    .col {
+        display: none;
+    }
+
+    .row {
+        width: 100%;
+    }
+
+    #About p {
+        font-size: smaller;
+    }
+
+    .all {
+        position: relative;
+        top: 106px;
+        right: 177px;
+    }
+
+    .pro1 {
+        display: block;
+        padding: 0px 61px;
+        position: relative;
+        top: 41px;
+        left: 25px;
+    }
+
+    .text {
+        width: 262px;
+    }
+
+    .im-g {
+        width: 50%;
+        padding: 7px 4px;
+    }
+}
+
+
+
+@media screen and (max-width: 425px) {
+    .activity2 {
+        display: block;
+    }
+
+    .ab-img {
+        width: 100%;
+    }
+
+    #About {
+        width: 100%;
+        color: #fff;
+        padding: 0 13px;
+    }
+
+    .vertical1 h1 {
+        position: relative;
+        right: 76px;
+        color: #fff;
+        font-family: 'Ubuntu', sans-serif;
+        top: 0;
+        font-size: 19px;
+    }
+
+    .vertical1 p {
+        color: #fff;
+        width: 162px;
+        position: relative;
+        right: 131px;
+        top: -1px;
+        font-size: 10px;
+    }
+
+    .vertical2 {
+
+        height: 2px;
+        background: aliceblue;
+        width: 32px;
+        position: relative;
+        bottom: 389px;
+        left: 346px;
+    }
+
+
+    .vertical2 h1 {
+        font-size: 19px;
+    }
+
+    .vertical2 p {
+        font-size: 10px;
+        padding: 0 13px;
+    }
+
+    .vertical3 {
+        height: 2px;
+        background: aliceblue;
+        width: 32px;
+        position: relative;
+        bottom: 539px;
+        left: 347px;
+    }
+
+    .vertical3 h1 {
+        position: relative;
+        top: -18px;
+        right: 88px;
+        color: #fff;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 19px;
+    }
+
+    .vertical3 p {
+        color: #fff;
+        width: 197px;
+        position: relative;
+        top: -20px;
+        right: 147px;
+        font-size: 10px;
+    }
+
+    .vertical4 {
+        height: 2px;
+        background: aliceblue;
+        width: 32px;
+        position: relative;
+        bottom: 252px;
+        left: 349px;
+    }
+
+    .vertical4 h1 {
+        position: relative;
+        top: -13px;
+        right: 83px;
+        color: #fff;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 19px;
+    }
+
+    .vertical4 p {
+        color: #fff;
+        width: 197px;
+        position: relative;
+        top: -19px;
+        right: 155px;
+        font-size: 10px;
+        padding: 0 9px;
+    }
+
+    .text {
+        position: relative;
+        right: 42px;
+    }
+
+    .im-g {
+        width: 100%;
+        padding: 7px 2px;
+        position: relative;
+        right: 36px;
+    }
+
+}
